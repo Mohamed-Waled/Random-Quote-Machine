@@ -20,7 +20,7 @@ This is a solution to the [Build a Random Quote Machine](https://www.freecodecam
 
 ### Links
 
-- Live Site URL: [Live site URL here]()
+- Live Site URL: [Live site URL here](https://celebrated-lily-314c2f.netlify.app/)
 
 ## My process
 
